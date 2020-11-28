@@ -1,9 +1,3 @@
-/*
-* @author Marcos Costa Oliveira
-*/
-package entities;
-
-
 public abstract class Veiculo implements IVeiculo{
     private String placa;
     private String modelo;
