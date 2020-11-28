@@ -1,6 +1,3 @@
-/*
-* @author Marcos Costa Oliveira
-*/
 package entities;
 
 public class Carro extends Veiculo{
